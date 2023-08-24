@@ -1,3 +1,5 @@
 # PRUEBA DE REPOSITORIO DE GITHUB
 
-Primera versiona de la prueba de repositorio de github
+Primera version de la prueba de repositorio de github
+
+Segunda version de la prueba de repositorio de github
